@@ -1,0 +1,400 @@
+Epoch : 0                    Training Time Elapsed : 5230.02
+Learning rate : 0.01
+Test Loss             : 4.10766
+Test Accuracy Rate    : 19.0161 percent
+Epoch : 1                    Training Time Elapsed : 10558.3
+Learning rate : 0.01
+Test Loss             : 3.18845
+Test Accuracy Rate    : 32.3403 percent
+Epoch : 2                    Training Time Elapsed : 15818.8
+Learning rate : 0.01
+Test Loss             : 2.87049
+Test Accuracy Rate    : 38.1902 percent
+Epoch : 3                    Training Time Elapsed : 21037.3
+Learning rate : 0.01
+Test Loss             : 2.59895
+Test Accuracy Rate    : 42.3596 percent
+Epoch : 4                    Training Time Elapsed : 26247.4
+Learning rate : 0.01
+Test Loss             : 2.44595
+Test Accuracy Rate    : 45.0564 percent
+Epoch : 5                    Training Time Elapsed : 31402
+Learning rate : 0.01
+Test Loss             : 2.37566
+Test Accuracy Rate    : 46.5109 percent
+Epoch : 6                    Training Time Elapsed : 36568.8
+Learning rate : 0.01
+Test Loss             : 2.32739
+Test Accuracy Rate    : 47.4352 percent
+Epoch : 7                    Training Time Elapsed : 41826.8
+Learning rate : 0.01
+Test Loss             : 2.30703
+Test Accuracy Rate    : 47.9914 percent
+Epoch : 8                    Training Time Elapsed : 47020.1
+Learning rate : 0.01
+Test Loss             : 2.21923
+Test Accuracy Rate    : 49.2197 percent
+Epoch : 9                    Training Time Elapsed : 52249.1
+Learning rate : 0.01
+Test Loss             : 2.19727
+Test Accuracy Rate    : 49.5979 percent
+Epoch : 10                    Training Time Elapsed : 57544.4
+Learning rate : 0.01
+Test Loss             : 2.22087
+Test Accuracy Rate    : 49.5999 percent
+Epoch : 11                    Training Time Elapsed : 62832.6
+Learning rate : 0.01
+Test Loss             : 2.21904
+Test Accuracy Rate    : 49.3378 percent
+Epoch : 12                    Training Time Elapsed : 68218.8
+Learning rate : 0.01
+Test Loss             : 2.14348
+Test Accuracy Rate    : 50.8603 percent
+Epoch : 13                    Training Time Elapsed : 73589.2
+Learning rate : 0.01
+Test Loss             : 2.13428
+Test Accuracy Rate    : 50.8863 percent
+Epoch : 14                    Training Time Elapsed : 78799.5
+Learning rate : 0.01
+Test Loss             : 2.10472
+Test Accuracy Rate    : 51.5045 percent
+Epoch : 15                    Training Time Elapsed : 84166.3
+Learning rate : 0.01
+Test Loss             : 2.09477
+Test Accuracy Rate    : 51.6305 percent
+Epoch : 16                    Training Time Elapsed : 89477.1
+Learning rate : 0.01
+Test Loss             : 2.10064
+Test Accuracy Rate    : 51.9506 percent
+Epoch : 17                    Training Time Elapsed : 95045.6
+Learning rate : 0.01
+Test Loss             : 2.06025
+Test Accuracy Rate    : 52.3047 percent
+Epoch : 18                    Training Time Elapsed : 100374
+Learning rate : 0.01
+Test Loss             : 2.06154
+Test Accuracy Rate    : 52.0627 percent
+Epoch : 19                    Training Time Elapsed : 105889
+Learning rate : 0.01
+Test Loss             : 2.06029
+Test Accuracy Rate    : 52.4368 percent
+Epoch : 20                    Training Time Elapsed : 111368
+Learning rate : 0.01
+Test Loss             : 2.06651
+Test Accuracy Rate    : 52.3447 percent
+Epoch : 21                    Training Time Elapsed : 116737
+Learning rate : 0.01
+Test Loss             : 2.04807
+Test Accuracy Rate    : 52.7909 percent
+Epoch : 22                    Training Time Elapsed : 122113
+Learning rate : 0.01
+Test Loss             : 2.0248
+Test Accuracy Rate    : 53.155 percent
+Epoch : 23                    Training Time Elapsed : 127473
+Learning rate : 0.01
+Test Loss             : 2.03435
+Test Accuracy Rate    : 53.3071 percent
+Epoch : 24                    Training Time Elapsed : 132840
+Learning rate : 0.01
+Test Loss             : 2.06047
+Test Accuracy Rate    : 52.3868 percent
+Epoch : 25                    Training Time Elapsed : 138170
+Learning rate : 0.01
+Test Loss             : 2.03005
+Test Accuracy Rate    : 53.239 percent
+Epoch : 26                    Training Time Elapsed : 143488
+Learning rate : 0.01
+Test Loss             : 2.02432
+Test Accuracy Rate    : 53.203 percent
+Epoch : 27                    Training Time Elapsed : 148844
+Learning rate : 0.01
+Test Loss             : 2.00683
+Test Accuracy Rate    : 53.4671 percent
+Epoch : 28                    Training Time Elapsed : 154263
+Learning rate : 0.01
+Test Loss             : 2.0022
+Test Accuracy Rate    : 53.6972 percent
+Epoch : 29                    Training Time Elapsed : 159694
+Learning rate : 0.01
+Test Loss             : 2.02795
+Test Accuracy Rate    : 53.071 percent
+Epoch : 30                    Training Time Elapsed : 165317
+Learning rate : 0.001
+Test Loss             : 1.52241
+Test Accuracy Rate    : 63.4003 percent
+Epoch : 31                    Training Time Elapsed : 170617
+Learning rate : 0.001
+Test Loss             : 1.47481
+Test Accuracy Rate    : 64.4126 percent
+Epoch : 32                    Training Time Elapsed : 176023
+Learning rate : 0.001
+Test Loss             : 1.45138
+Test Accuracy Rate    : 65.2909 percent
+Epoch : 33                    Training Time Elapsed : 181381
+Learning rate : 0.001
+Test Loss             : 1.42182
+Test Accuracy Rate    : 65.475 percent
+Epoch : 34                    Training Time Elapsed : 186711
+Learning rate : 0.001
+Test Loss             : 1.40853
+Test Accuracy Rate    : 65.8231 percent
+Epoch : 35                    Training Time Elapsed : 192269
+Learning rate : 0.001
+Test Loss             : 1.40611
+Test Accuracy Rate    : 65.9251 percent
+Epoch : 36                    Training Time Elapsed : 197757
+Learning rate : 0.001
+Test Loss             : 1.40076
+Test Accuracy Rate    : 66.1012 percent
+Epoch : 37                    Training Time Elapsed : 203062
+Learning rate : 0.001
+Test Loss             : 1.3976
+Test Accuracy Rate    : 66.3512 percent
+Epoch : 38                    Training Time Elapsed : 208388
+Learning rate : 0.001
+Test Loss             : 1.39634
+Test Accuracy Rate    : 66.2452 percent
+Epoch : 39                    Training Time Elapsed : 213761
+Learning rate : 0.001
+Test Loss             : 1.39029
+Test Accuracy Rate    : 66.3412 percent
+Epoch : 40                    Training Time Elapsed : 219112
+Learning rate : 0.001
+Test Loss             : 1.39507
+Test Accuracy Rate    : 66.4793 percent
+Epoch : 41                    Training Time Elapsed : 224489
+Learning rate : 0.001
+Test Loss             : 1.40069
+Test Accuracy Rate    : 66.1132 percent
+Epoch : 42                    Training Time Elapsed : 229772
+Learning rate : 0.001
+Test Loss             : 1.40133
+Test Accuracy Rate    : 66.1872 percent
+Epoch : 43                    Training Time Elapsed : 235164
+Learning rate : 0.001
+Test Loss             : 1.39099
+Test Accuracy Rate    : 66.4773 percent
+Epoch : 44                    Training Time Elapsed : 240434
+Learning rate : 0.001
+Test Loss             : 1.41463
+Test Accuracy Rate    : 65.9231 percent
+Epoch : 45                    Training Time Elapsed : 245773
+Learning rate : 0.001
+Test Loss             : 1.39821
+Test Accuracy Rate    : 66.1692 percent
+Epoch : 46                    Training Time Elapsed : 251236
+Learning rate : 0.001
+Test Loss             : 1.39242
+Test Accuracy Rate    : 66.4973 percent
+Epoch : 47                    Training Time Elapsed : 256646
+Learning rate : 0.001
+Test Loss             : 1.39705
+Test Accuracy Rate    : 66.1932 percent
+Epoch : 48                    Training Time Elapsed : 262215
+Learning rate : 0.001
+Test Loss             : 1.39963
+Test Accuracy Rate    : 66.1252 percent
+Epoch : 49                    Training Time Elapsed : 267689
+Learning rate : 0.001
+Test Loss             : 1.40707
+Test Accuracy Rate    : 66.0651 percent
+Epoch : 50                    Training Time Elapsed : 273152
+Learning rate : 0.001
+Test Loss             : 1.38836
+Test Accuracy Rate    : 66.5293 percent
+Epoch : 51                    Training Time Elapsed : 278525
+Learning rate : 0.001
+Test Loss             : 1.40431
+Test Accuracy Rate    : 66.2352 percent
+Epoch : 52                    Training Time Elapsed : 284037
+Learning rate : 0.001
+Test Loss             : 1.40777
+Test Accuracy Rate    : 66.1712 percent
+Epoch : 53                    Training Time Elapsed : 289330
+Learning rate : 0.001
+Test Loss             : 1.39787
+Test Accuracy Rate    : 66.2692 percent
+Epoch : 54                    Training Time Elapsed : 294698
+Learning rate : 0.001
+Test Loss             : 1.39419
+Test Accuracy Rate    : 66.2812 percent
+Epoch : 55                    Training Time Elapsed : 300015
+Learning rate : 0.001
+Test Loss             : 1.40145
+Test Accuracy Rate    : 66.0651 percent
+Epoch : 56                    Training Time Elapsed : 305361
+Learning rate : 0.001
+Test Loss             : 1.40234
+Test Accuracy Rate    : 66.0351 percent
+Epoch : 57                    Training Time Elapsed : 310667
+Learning rate : 0.001
+Test Loss             : 1.39928
+Test Accuracy Rate    : 66.1312 percent
+Epoch : 58                    Training Time Elapsed : 316033
+Learning rate : 0.001
+Test Loss             : 1.38623
+Test Accuracy Rate    : 66.4133 percent
+Epoch : 59                    Training Time Elapsed : 321487
+Learning rate : 0.001
+Test Loss             : 1.40369
+Test Accuracy Rate    : 66.1652 percent
+Epoch : 60                    Training Time Elapsed : 326976
+Learning rate : 0.0001
+Test Loss             : 1.24971
+Test Accuracy Rate    : 69.5182 percent
+Epoch : 61                    Training Time Elapsed : 332335
+Learning rate : 0.0001
+Test Loss             : 1.24149
+Test Accuracy Rate    : 69.7003 percent
+Epoch : 62                    Training Time Elapsed : 337719
+Learning rate : 0.0001
+Test Loss             : 1.23299
+Test Accuracy Rate    : 69.9244 percent
+Epoch : 63                    Training Time Elapsed : 343195
+Learning rate : 0.0001
+Test Loss             : 1.22894
+Test Accuracy Rate    : 69.8904 percent
+Epoch : 64                    Training Time Elapsed : 348544
+Learning rate : 0.0001
+Test Loss             : 1.22365
+Test Accuracy Rate    : 70.0124 percent
+Epoch : 65                    Training Time Elapsed : 353987
+Learning rate : 0.0001
+Test Loss             : 1.21448
+Test Accuracy Rate    : 70.2925 percent
+Epoch : 66                    Training Time Elapsed : 359409
+Learning rate : 0.0001
+Test Loss             : 1.21665
+Test Accuracy Rate    : 70.3345 percent
+Epoch : 67                    Training Time Elapsed : 364763
+Learning rate : 0.0001
+Test Loss             : 1.21527
+Test Accuracy Rate    : 70.4325 percent
+Epoch : 68                    Training Time Elapsed : 370167
+Learning rate : 0.0001
+Test Loss             : 1.21985
+Test Accuracy Rate    : 70.3465 percent
+Epoch : 69                    Training Time Elapsed : 375519
+Learning rate : 0.0001
+Test Loss             : 1.21122
+Test Accuracy Rate    : 70.4826 percent
+Epoch : 70                    Training Time Elapsed : 380983
+Learning rate : 0.0001
+Test Loss             : 1.21034
+Test Accuracy Rate    : 70.6686 percent
+Epoch : 71                    Training Time Elapsed : 386330
+Learning rate : 0.0001
+Test Loss             : 1.20486
+Test Accuracy Rate    : 70.7066 percent
+Epoch : 72                    Training Time Elapsed : 391698
+Learning rate : 0.0001
+Test Loss             : 1.20497
+Test Accuracy Rate    : 70.6966 percent
+Epoch : 73                    Training Time Elapsed : 397067
+Learning rate : 0.0001
+Test Loss             : 1.20471
+Test Accuracy Rate    : 70.7286 percent
+Epoch : 74                    Training Time Elapsed : 402384
+Learning rate : 0.0001
+Test Loss             : 1.20336
+Test Accuracy Rate    : 70.6786 percent
+Epoch : 75                    Training Time Elapsed : 407674
+Learning rate : 0.0001
+Test Loss             : 1.20054
+Test Accuracy Rate    : 70.7847 percent
+Epoch : 76                    Training Time Elapsed : 413032
+Learning rate : 0.0001
+Test Loss             : 1.19874
+Test Accuracy Rate    : 70.7586 percent
+Epoch : 77                    Training Time Elapsed : 418414
+Learning rate : 0.0001
+Test Loss             : 1.20525
+Test Accuracy Rate    : 70.7046 percent
+Epoch : 78                    Training Time Elapsed : 423733
+Learning rate : 0.0001
+Test Loss             : 1.2017
+Test Accuracy Rate    : 70.9347 percent
+Epoch : 79                    Training Time Elapsed : 429083
+Learning rate : 0.0001
+Test Loss             : 1.20045
+Test Accuracy Rate    : 70.8067 percent
+Epoch : 80                    Training Time Elapsed : 434551
+Learning rate : 0.0001
+Test Loss             : 1.20083
+Test Accuracy Rate    : 70.8207 percent
+Epoch : 81                    Training Time Elapsed : 439938
+Learning rate : 0.0001
+Test Loss             : 1.20108
+Test Accuracy Rate    : 70.8167 percent
+Epoch : 82                    Training Time Elapsed : 445189
+Learning rate : 0.0001
+Test Loss             : 1.20065
+Test Accuracy Rate    : 70.8447 percent
+Epoch : 83                    Training Time Elapsed : 450466
+Learning rate : 0.0001
+Test Loss             : 1.19975
+Test Accuracy Rate    : 70.8827 percent
+Epoch : 84                    Training Time Elapsed : 455708
+Learning rate : 0.0001
+Test Loss             : 1.20177
+Test Accuracy Rate    : 70.8387 percent
+Epoch : 85                    Training Time Elapsed : 460928
+Learning rate : 0.0001
+Test Loss             : 1.20202
+Test Accuracy Rate    : 70.8867 percent
+Epoch : 86                    Training Time Elapsed : 466091
+Learning rate : 0.0001
+Test Loss             : 1.20089
+Test Accuracy Rate    : 70.9007 percent
+Epoch : 87                    Training Time Elapsed : 471440
+Learning rate : 0.0001
+Test Loss             : 1.19738
+Test Accuracy Rate    : 71.0607 percent
+Epoch : 88                    Training Time Elapsed : 476779
+Learning rate : 0.0001
+Test Loss             : 1.1971
+Test Accuracy Rate    : 70.9847 percent
+Epoch : 89                    Training Time Elapsed : 482100
+Learning rate : 0.0001
+Test Loss             : 1.19609
+Test Accuracy Rate    : 71.0447 percent
+Epoch : 90                    Training Time Elapsed : 487424
+Learning rate : 1e-05
+Test Loss             : 1.18442
+Test Accuracy Rate    : 71.2388 percent
+Epoch : 91                    Training Time Elapsed : 492711
+Learning rate : 1e-05
+Test Loss             : 1.1809
+Test Accuracy Rate    : 71.3168 percent
+Epoch : 92                    Training Time Elapsed : 498139
+Learning rate : 1e-05
+Test Loss             : 1.18181
+Test Accuracy Rate    : 71.3008 percent
+Epoch : 93                    Training Time Elapsed : 503549
+Learning rate : 1e-05
+Test Loss             : 1.18115
+Test Accuracy Rate    : 71.4169 percent
+Epoch : 94                    Training Time Elapsed : 508984
+Learning rate : 1e-05
+Test Loss             : 1.18152
+Test Accuracy Rate    : 71.3288 percent
+Epoch : 95                    Training Time Elapsed : 514358
+Learning rate : 1e-05
+Test Loss             : 1.17657
+Test Accuracy Rate    : 71.4309 percent
+Epoch : 96                    Training Time Elapsed : 519643
+Learning rate : 1e-05
+Test Loss             : 1.1822
+Test Accuracy Rate    : 71.4409 percent
+Epoch : 97                    Training Time Elapsed : 524798
+Learning rate : 1e-05
+Test Loss             : 1.18006
+Test Accuracy Rate    : 71.3488 percent
+Epoch : 98                    Training Time Elapsed : 530079
+Learning rate : 1e-05
+Test Loss             : 1.17588
+Test Accuracy Rate    : 71.5109 percent
+Epoch : 99                    Training Time Elapsed : 535327
+Learning rate : 1e-05
+Test Loss             : 1.17856
+Test Accuracy Rate    : 71.3928 percent
